@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    layout_constraintBottom_toBottomOf="parent"
+    xmlns="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".TrackProgress">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        layout_constraintBottom_toBottomOf="parent"
+        layout_constraintEnd_toEndOf="parent"
+        layout_constraintStart_toStartOf="parent"
+        layout_constraintTop_toTopOf="parent"
+        layout_constraintVertical_bias="parent"
+        android:layout_width="386dp"
+        android:layout_gravity="center"
+        android:layout_height="330dp"
+        android:contentDescription="TODO"
+        android:src="@drawable/bar12"
+        tools:layout_editor_absoluteX="32dp" />
+</LinearLayout>

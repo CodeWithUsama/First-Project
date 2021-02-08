@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935428453262",
+    "project_id": "consciouseyes-a3e9a",
+    "storage_bucket": "consciouseyes-a3e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935428453262:android:70fd10ebd375f88f542adf",
+        "android_client_info": {
+          "package_name": "com.example.consciouseyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935428453262-b41thgqno4vrpqr5re5m2o2nag3gur0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2SqhdmfK50rxMiDbV6Q3d8fsjSEZmVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935428453262-b41thgqno4vrpqr5re5m2o2nag3gur0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
